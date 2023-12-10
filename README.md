@@ -1,10 +1,10 @@
 # Christopher-Lloyd
 
-<h1>Hi, I'm Christopher, an IT Professional.
-Below are some of my projects that showcases my expertise:
+<h1>Hi, I'm Christopher, an IT Professional. Below are some of my projects that showcases my expertise:
+
   
-  <a href="https://linken IT Professional</a>☺</h1>
   <h2>👨‍💻 Information Technology  
+   
     osTicket (Help Desk Ticketing System)
   - [osTicket: Prerequisites and Installation](https://github.com/Meeksaint/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/christopherlloyd/post-install-config)
