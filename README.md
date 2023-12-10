@@ -1,11 +1,15 @@
 # Christopher-Lloyd
 <h1>Hi, I'm Christopher, an <a href="https://linken IT Professional</a>☺</h1>
-<h2>👨‍💻 Information Technology Projects:</h2>
+
+  <h2>👨‍💻 Information Technology Projects:</h2>
+
+
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Meeksaint/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/christopherlloyd/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/christopherlloyd/ticket-lifecycle)
     
+
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/christopherlloyd/configure-ad)
   - [Estbalishing VPN connection using Azure VM ](https://github.com/christopherlloyd/azure-network-protocols)
