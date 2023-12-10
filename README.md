@@ -1,8 +1,6 @@
 # Christopher-Lloyd
-<h1>Hi, I'm Christopher, an <a href="https://linkedin IT Professional</a>☺</h1>
-
+<h1>Hi, I'm Christopher, an <a href="https://linken IT Professional</a>☺</h1>
 <h2>👨‍💻 Information Technology Projects:</h2>
-
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Meeksaint/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/christopherlloyd/post-install-config)
